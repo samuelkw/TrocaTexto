@@ -1,1 +1,1 @@
-Exemplo ferramenta para trocar texto de arquivos
+Exemplo de ferramenta para trocar texto de arquivos
